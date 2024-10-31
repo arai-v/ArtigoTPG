@@ -1,0 +1,333 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{de2022game}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=fcae9d6322a57c4e6819691dc44fbd5b}{%
+           family={Andrade},
+           familyi={A\bibinitperiod},
+           given={Bruna\bibnamedelimb Raphaela\bibnamedelima Ferreira},
+           giveni={B\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod},
+           prefixun=0}}%
+        {{un=0,uniquepart=base,hash=dc324c8d7ee933d4563629b9c4d72576}{%
+           family={Ruschival},
+           familyi={R\bibinitperiod},
+           given={Claudete\bibnamedelima Barbosa},
+           giveni={C\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=901ba1ec916d92ad4761ec6359c4b119}{%
+           family={Rocha},
+           familyi={R\bibinitperiod},
+           given={Augusto\bibnamedelimb Cesar\bibnamedelima Barreto},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9468460da5a51ce03ae1f88b8fecaa5f}
+      \strng{fullhash}{9468460da5a51ce03ae1f88b8fecaa5f}
+      \strng{bibnamehash}{9468460da5a51ce03ae1f88b8fecaa5f}
+      \strng{authorbibnamehash}{9468460da5a51ce03ae1f88b8fecaa5f}
+      \strng{authornamehash}{9468460da5a51ce03ae1f88b8fecaa5f}
+      \strng{authorfullhash}{9468460da5a51ce03ae1f88b8fecaa5f}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{DAT Journal}
+      \field{number}{1}
+      \field{title}{{\textit{Game Design: Plataforma gamificada como inovação tecnológica na educação}}}
+      \field{volume}{7}
+      \field{year}{2022}
+      \field{pages}{291\bibrangedash 306}
+      \range{pages}{16}
+    \endentry
+    \entry{deterding2011game}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=4ad251c02d478d38f2fe79e126ae6bf1}{%
+           family={Deterding},
+           familyi={D\bibinitperiod},
+           given={Sebastian},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=77b7f2834ada9e806200ca66ed3767a4}{%
+           family={Dixon},
+           familyi={D\bibinitperiod},
+           given={Dan},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6693a49677bd64d91668dccd98fe0d4e}{%
+           family={Khaled},
+           familyi={K\bibinitperiod},
+           given={Rilla},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f8dcd6b16d5cfe0d1191e77e5f709c16}{%
+           family={Nacke},
+           familyi={N\bibinitperiod},
+           given={Lennart},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{74ba12e04f1a6f9417ee0406ccd7ba89}
+      \strng{fullhash}{5900b306a627b766e3160b1c23b117f2}
+      \strng{bibnamehash}{74ba12e04f1a6f9417ee0406ccd7ba89}
+      \strng{authorbibnamehash}{74ba12e04f1a6f9417ee0406ccd7ba89}
+      \strng{authornamehash}{74ba12e04f1a6f9417ee0406ccd7ba89}
+      \strng{authorfullhash}{5900b306a627b766e3160b1c23b117f2}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Anais da 15ª conferência acadêmica internacional MindTrek: Prevendo futuros ambientes de mídia}
+      \field{title}{{\textit{Dos elementos de design de jogos à ludicidade: definindo" gamificação"}}}
+      \field{year}{2011}
+      \field{pages}{9\bibrangedash 15}
+      \range{pages}{7}
+    \endentry
+    \entry{Brasil2022}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c4404be2714f0ed144cea825ffd6ee75}{%
+           family={Educação},
+           familyi={E\bibinitperiod},
+           given={Ministério},
+           giveni={M\bibinitperiod},
+           givenun=0,
+           prefix={da},
+           prefixi={d\bibinitperiod},
+           prefixun=0}}%
+      }
+      \list{publisher}{1}{%
+        {MEC - Ministério da Educação}%
+      }
+      \strng{namehash}{c4404be2714f0ed144cea825ffd6ee75}
+      \strng{fullhash}{c4404be2714f0ed144cea825ffd6ee75}
+      \strng{bibnamehash}{c4404be2714f0ed144cea825ffd6ee75}
+      \strng{authorbibnamehash}{c4404be2714f0ed144cea825ffd6ee75}
+      \strng{authornamehash}{c4404be2714f0ed144cea825ffd6ee75}
+      \strng{authorfullhash}{c4404be2714f0ed144cea825ffd6ee75}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{\textit{Relatório de Resultados do SAEB 2021 | Volume 1 - Contexto Educacional e Resultados em Língua Portuguesa e Matemática para o 5º e 9º Anos do Ensino Fundamental e Séries Finais do Ensino Médio. Versão preliminar.}}}
+      \field{year}{2022}
+    \endentry
+    \entry{hamari2014does}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=57c059873972ac3bb360bc05ba0a18f1}{%
+           family={Hamari},
+           familyi={H\bibinitperiod},
+           given={Juho},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8094ef3cdc640cff0e290d32d85869c6}{%
+           family={Koivisto},
+           familyi={K\bibinitperiod},
+           given={Jonna},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5dd89d1ebd375757b8466f2a4fc7f33f}{%
+           family={Sarsa},
+           familyi={S\bibinitperiod},
+           given={Harri},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {Ieee}%
+      }
+      \strng{namehash}{d0a428170cd0c96f6811c01b642b11bc}
+      \strng{fullhash}{d0a428170cd0c96f6811c01b642b11bc}
+      \strng{bibnamehash}{d0a428170cd0c96f6811c01b642b11bc}
+      \strng{authorbibnamehash}{d0a428170cd0c96f6811c01b642b11bc}
+      \strng{authornamehash}{d0a428170cd0c96f6811c01b642b11bc}
+      \strng{authorfullhash}{d0a428170cd0c96f6811c01b642b11bc}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2014 47th Hawaii international conference on system sciences}
+      \field{title}{{\textit{Does gamification work?--a literature review of empirical studies on gamification}}}
+      \field{year}{2014}
+      \field{pages}{3025\bibrangedash 3034}
+      \range{pages}{10}
+    \endentry
+    \entry{hsin2013practitioner}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=fa465e32180b7481415aa3c754474b84}{%
+           family={Hsin-Yuan\bibnamedelima Huang},
+           familyi={H\bibinithyphendelim Y\bibinitperiod\bibinitdelim H\bibinitperiod},
+           given={W},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d373b0815505a8f81e90ce6f5aef06a0}{%
+           family={Soman},
+           familyi={S\bibinitperiod},
+           given={Dilip},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{58793c5858101a65ddb6e4401e487c78}
+      \strng{fullhash}{58793c5858101a65ddb6e4401e487c78}
+      \strng{bibnamehash}{58793c5858101a65ddb6e4401e487c78}
+      \strng{authorbibnamehash}{58793c5858101a65ddb6e4401e487c78}
+      \strng{authornamehash}{58793c5858101a65ddb6e4401e487c78}
+      \strng{authorfullhash}{58793c5858101a65ddb6e4401e487c78}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Rotman School of Management, University of Toronto}
+      \field{title}{{\textit{A practitioner’s guide to gamification of education}}}
+      \field{year}{2013}
+    \endentry
+    \entry{landers2014empirical}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=9709de5385915e543eb23ff1650273a1}{%
+           family={Landers},
+           familyi={L\bibinitperiod},
+           given={Richard\bibnamedelima N},
+           giveni={R\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=619cf4a541ee5f22ff89aa6f848e4c37}{%
+           family={Landers},
+           familyi={L\bibinitperiod},
+           given={Amy\bibnamedelima K},
+           giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications Sage CA: Los Angeles, CA}%
+      }
+      \strng{namehash}{b71461fed08a10d2b7b4f2ac512c7023}
+      \strng{fullhash}{b71461fed08a10d2b7b4f2ac512c7023}
+      \strng{bibnamehash}{b71461fed08a10d2b7b4f2ac512c7023}
+      \strng{authorbibnamehash}{b71461fed08a10d2b7b4f2ac512c7023}
+      \strng{authornamehash}{b71461fed08a10d2b7b4f2ac512c7023}
+      \strng{authorfullhash}{b71461fed08a10d2b7b4f2ac512c7023}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Simulation \& Gaming}
+      \field{number}{6}
+      \field{title}{{\textit{An empirical test of the theory of gamified learning: The effect of leaderboards on time-on-task and academic performance}}}
+      \field{volume}{45}
+      \field{year}{2014}
+      \field{pages}{769\bibrangedash 785}
+      \range{pages}{17}
+    \endentry
+    \entry{malone2021fazendo}{incollection}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=13a4d972ee4e6e36490dd8797fe33626}{%
+           family={Malone},
+           familyi={M\bibinitperiod},
+           given={Thomas\bibnamedelima W},
+           giveni={T\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d9d9334dad39d62d9d9e571d56ada204}{%
+           family={Lepper},
+           familyi={L\bibinitperiod},
+           given={Mark\bibnamedelima R},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=063a2ae33d96b6152f9d3065788fa26a}{%
+           family={Routledge},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{511234a2f981a77011f3258cdc870e0b}
+      \strng{fullhash}{511234a2f981a77011f3258cdc870e0b}
+      \strng{bibnamehash}{511234a2f981a77011f3258cdc870e0b}
+      \strng{authorbibnamehash}{511234a2f981a77011f3258cdc870e0b}
+      \strng{authornamehash}{511234a2f981a77011f3258cdc870e0b}
+      \strng{authorfullhash}{511234a2f981a77011f3258cdc870e0b}
+      \strng{editorbibnamehash}{063a2ae33d96b6152f9d3065788fa26a}
+      \strng{editornamehash}{063a2ae33d96b6152f9d3065788fa26a}
+      \strng{editorfullhash}{063a2ae33d96b6152f9d3065788fa26a}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Aptitude, aprendizado e instrução}
+      \field{title}{{\textit{Tornando a aprendizagem divertida: uma taxonomia de motivações intrínsecas para a aprendizagem}}}
+      \field{year}{2021}
+      \field{pages}{223\bibrangedash 254}
+      \range{pages}{32}
+    \endentry
+    \entry{seaborn2015gamification}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=828035bea3055bd7f8280099721ef024}{%
+           family={Seaborn},
+           familyi={S\bibinitperiod},
+           given={Katie},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a5ae55da724e7a4d4ee7e113041b97d4}{%
+           family={Fels},
+           familyi={F\bibinitperiod},
+           given={Deborah\bibnamedelima I},
+           giveni={D\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{2120557272c9f2139eaa09b15a7c07ea}
+      \strng{fullhash}{2120557272c9f2139eaa09b15a7c07ea}
+      \strng{bibnamehash}{2120557272c9f2139eaa09b15a7c07ea}
+      \strng{authorbibnamehash}{2120557272c9f2139eaa09b15a7c07ea}
+      \strng{authornamehash}{2120557272c9f2139eaa09b15a7c07ea}
+      \strng{authorfullhash}{2120557272c9f2139eaa09b15a7c07ea}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of human-computer studies}
+      \field{title}{{\textit{Gamification in theory and action: A survey}}}
+      \field{volume}{74}
+      \field{year}{2015}
+      \field{pages}{14\bibrangedash 31}
+      \range{pages}{18}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
